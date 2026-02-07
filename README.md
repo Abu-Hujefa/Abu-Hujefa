@@ -93,10 +93,8 @@ I value constructive criticism and believe collaboration accelerates learning.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-> 🔧 Replace `YOUR_USERNAME` with your actual GitHub username.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abu-Hujefa&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Hujefa&layout=compact&theme=tokyonight)
 
 ---
 
@@ -113,9 +111,7 @@ I value constructive criticism and believe collaboration accelerates learning.
 
 ## 📫 Contact & Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
-
-(You can add LinkedIn or email later if you want.)
+- GitHub: https://github.com/Abu-Hujefa
 
 ---
 
