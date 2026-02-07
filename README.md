@@ -6,7 +6,6 @@ Aspiring software developer focused on learning core programming concepts, probl
 
 ## 📈 GitHub Stats (Learning in Public)
 
-## 📈 GitHub Stats (Learning in Public)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abu-Hujefa&show_icons=true&theme=tokyonight)
 
