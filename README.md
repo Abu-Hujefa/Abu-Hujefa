@@ -16,20 +16,6 @@ Aspiring software developer focused on learning core programming concepts, probl
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abu-Hujefa&theme=tokyonight)
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abu-Hujefa&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Hujefa&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abu-Hujefa&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abu-Hujefa&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 🚀 Currently Learning
