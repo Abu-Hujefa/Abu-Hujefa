@@ -1,43 +1,61 @@
-# 👋 Hi, I’m Hujaifa
+# 👋 Hi, I’m Hujaifa (@Abu-Hujefa)
 
-I am an aspiring software developer focused on learning core programming concepts and problem solving. I believe in building strong fundamentals, learning step by step, and improving consistently through practice and real work. I treat coding as a long-term skill and focus on understanding concepts deeply rather than rushing for shortcuts.
+Aspiring software developer focused on learning core programming concepts, problem solving, and building strong computer science fundamentals. I believe in consistency, step-by-step learning, and improving through practice and real work.
 
 ---
 
-## 🚀 What I’m Currently Learning
+## 📈 GitHub Stats (Learning in Public)
 
-- Learning **C programming**
-- Studying **Data Structures**
-- Exploring **Web Development**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abu-Hujefa&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Hujefa&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-I am actively working on improving my logical thinking and coding discipline while strengthening my computer science basics.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abu-Hujefa&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abu-Hujefa&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Currently Learning
+
+- C Programming  
+- Data Structures  
+- Web Development (HTML, CSS, JavaScript)
+
+Focused on improving logical thinking and coding discipline.
 
 ---
 
 ## 🧠 Skills & Tools
 
-### 💻 Programming & Web
-- **Languages:** C, C++, HTML, CSS, JavaScript  
-- **Databases:** MySQL  
-- **Core CS:** Data Structures, DBMS  
+### 💻 Programming & CS
+- C, C++  
+- HTML, CSS, JavaScript  
+- Data Structures, DBMS  
+- MySQL  
 
-### 🛠️ Developer Tools
+### 🛠️ Development Tools
 - VS Code  
 - Git & GitHub  
 - GitHub Copilot  
 
 ### 📊 Productivity & Workspace
-- Microsoft Excel, Word, PowerPoint  
-- Google Workspace (Drive, Gmail, Docs, Slides, Forms)  
+- MS Excel, Word, PowerPoint  
+- Google Workspace (Drive, Docs, Slides, Forms, Gmail)
 
-### 🎨 Creative & Editing Tools
+### 🎨 Creative & Editing
 - Canva  
 - CapCut, VN  
 - Snapseed, PicsArt  
 - Lightroom, PhotoRoom  
 - SketchBook  
 
-### 🤖 AI & Research Tools
+### 🤖 AI & Research
 - ChatGPT  
 - Gemini  
 - Perplexity  
@@ -45,80 +63,63 @@ I am actively working on improving my logical thinking and coding discipline whi
 - Gamma AI  
 - Notebook LM  
 
-I use tools responsibly to **learn faster, think better, and work smarter**, not to skip understanding.
-
 ---
 
-## 🔁 How I Learn & Work
+## 🔁 How I Work
 
-- Learning **step by step**
-- Practicing **daily**
-- Building **small projects**
-- Focusing on **fundamentals**
-- Learning from **mistakes**
-
-I believe consistency and fundamentals matter more than trends.
+- Learn step by step  
+- Practice daily  
+- Build small projects  
+- Focus on fundamentals  
+- Learn from mistakes  
 
 ---
 
 ## 📂 Projects & Practice
 
-My repositories mainly include:
-- Small **practice programs in C**
-- **Basic web pages** using HTML and CSS
+- Small **C programming practice programs**  
+- **Basic web pages** using HTML & CSS  
 
-These projects represent my learning journey and my effort to convert theory into practice.
+Repositories reflect my learning journey and steady progress.
 
 ---
 
 ## 🎯 Goals
 
 - Improve problem-solving skills  
-- Master **DSA basics**  
-- Build **real-world projects**
-
-I am focused on long-term growth and skill development.
+- Master DSA basics  
+- Build real-world projects  
 
 ---
 
-## 🤝 Collaboration & Attitude
+## 🤝 Collaboration
 
-- Open to **feedback**
-- Willing to **learn**
-- Interested in **collaboration**
-
-I value constructive criticism and believe collaboration accelerates learning.
+- Open to feedback  
+- Willing to learn  
+- Interested in collaboration  
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abu-Hujefa&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Hujefa&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 Badges
+## 🏆 Tech Badges
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## 📫 Contact & Connect
+## 📫 Connect With Me
 
-- GitHub: https://github.com/Abu-Hujefa
+- GitHub: https://github.com/Abu-Hujefa  
 
 ---
 
 ## 💬 Quote
 
-> “Focus on fundamentals, stay consistent, and let progress speak.”
+> “Strong fundamentals, daily effort, and patience build great developers.”
 
----
-
-⭐ If you find my repositories useful, feel free to explore and share feedback.
+⭐ Feel free to explore my repositories and share feedback.
