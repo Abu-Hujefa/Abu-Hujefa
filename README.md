@@ -6,10 +6,9 @@ Aspiring software developer focused on learning core programming concepts, probl
 
 ## 📈 GitHub Stats (Learning in Public)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abu-Hujefa&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abu-Hujefa&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Hujefa&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Hujefa&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abu-Hujefa&theme=tokyonight)
 
